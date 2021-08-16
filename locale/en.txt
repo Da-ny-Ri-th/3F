@@ -5,7 +5,7 @@
 ### Description
 
 ### Title
-tour.name = Untitled 5
+tour.name = 3F
 
 ## Skin
 
@@ -22,22 +22,25 @@ Label_67C0ED9F_73FF_0B9B_41D8_30A7116528C9.text = HATTHA BANK PROJECT, 3F
 ## Media
 
 ### Subtitle
-panorama_EC3677E9_E5F7_E3D5_41E2_0C7AFA07B0AC.subtitle = 1-The design and scope of works for the gym including the counter \
+panorama_40078DAF_4DB2_9B24_41D3_637EFDB6C46C.subtitle = 1-The design and scope of works for the gym including the counter \
 and the equipment is not part of CMED scope and is to the operator.
-panorama_EC488006_E5F7_1C5E_41EA_948DE2910AE6.subtitle = 1-The design and scope of works for the gym including the counter \
+panorama_406D43C7_4DB2_8F64_41C5_6327B37794ED.subtitle = 1-The design and scope of works for the gym including the counter \
+and the equipment is not part of CMED scope and is to the operator.
+panorama_4079828B_4DB2_89EC_41B6_B084392B42EA.subtitle = 1-The design and scope of works for the gym including the counter \
+and the equipment is not part of CMED scope and is to the operator.
+panorama_42B56097_4DAD_89E4_418F_4077DC40881C.subtitle = 1-The design and scope of works for the gym including the counter \
 and the equipment is not part of CMED scope and is to the operator.
 panorama_EC48EDCD_E5F7_67D2_41D2_639ACCD82ECC.subtitle = 1- CMED Provide (Power Socket, Data & Power Point) \
 2- Projector Screen with remote-control is by client \
 3- Projector & mechanism remote-control is by client
-panorama_EF4CAFD2_E5F7_E3F7_41EB_C637098E41FE.subtitle = 1-The design and scope of works for the gym including the counter \
-and the equipment is not part of CMED scope and is to the operator.
 
 ### Title
 map_ED7E8545_E60B_24DD_41CB_B18F0BB884CB.label = 3F - Key layout
-panorama_EC3677E9_E5F7_E3D5_41E2_0C7AFA07B0AC.label = Note:
-panorama_EC488006_E5F7_1C5E_41EA_948DE2910AE6.label = Note:
+panorama_40078DAF_4DB2_9B24_41D3_637EFDB6C46C.label = Note:
+panorama_406D43C7_4DB2_8F64_41C5_6327B37794ED.label = Note:
+panorama_4079828B_4DB2_89EC_41B6_B084392B42EA.label = Note:
+panorama_42B56097_4DAD_89E4_418F_4077DC40881C.label = Note:
 panorama_EC48EDCD_E5F7_67D2_41D2_639ACCD82ECC.label = Note:
-panorama_EF4CAFD2_E5F7_E3F7_41EB_C637098E41FE.label = Note:
 
 ## Action
 
