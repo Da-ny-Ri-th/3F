@@ -43,7 +43,7 @@ panorama_EC48EDCD_E5F7_67D2_41D2_639ACCD82ECC.subtitle = 1- CMED Provide (Power 
 3- Projector & mechanism remote-control is by client
 
 ### Title
-map_ED7E8545_E60B_24DD_41CB_B18F0BB884CB.label = 3F - Key layout
+map_169CC9AD_5C07_512F_41AF_9FBFEC78793B.label = 3F - Key layout
 panorama_73564CD4_5C0B_F7B4_41C0_C266D31A3577.label = Note:
 panorama_7357393B_5C0B_DEF3_41D6_7F06C2DB0421.label = Note:
 panorama_73575533_5C0B_B6F3_4198_AEDC1B2D02E0.label = Note:
