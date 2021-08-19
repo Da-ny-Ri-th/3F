@@ -5,7 +5,7 @@
 ### Description
 
 ### Title
-tour.name = 3F
+tour.name = HATTHA BANK PROJECT-3F
 
 ## Skin
 
